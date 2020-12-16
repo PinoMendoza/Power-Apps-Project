@@ -14,6 +14,8 @@ By Víctor Suárez Ramos
 
 ### Use cases<a name="useCases">
 ![Diagram](Images/Use%20Case%20Diagram.jpg)
+ 
+ I also made a [mockup of the app](https://xd.adobe.com/view/c6f4f565-776e-485f-8a7d-c5d9b3afe67b-93a7/screen/77ea253a-6475-40dc-96ff-3bc602b216db/) to show the concept of the project.
 
 ### Data Model<a name="dataModel">
 The data origin in the app are Excel tables, which makes it a bit more limited, but in turn it becomes easier to understand, as Excel is widely used.
