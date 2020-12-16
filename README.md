@@ -4,14 +4,19 @@ By Víctor Suárez Ramos
 
 ## Table of Contents
 * [1. Introduction](#introduction)
-* [1. User requirements](#userReq)
-* [2. Usability](#usability)
-* [2. Use cases](#useCases)
-* [3. Data model](#dataModel)
-* [4. Instalation Manual](#instalationManual)
-* [5. Technology Stack](#techStack)
-* [6. Comparison with other technologies](#comparison)
-* [7. References and documentation used](#documentation)
+* [2. User requirements](#userReq)
+* [3. Usability](#usability)
+* [4. Use cases](#useCases)
+* [5. Data model](#dataModel)
+* [6. Instalation Manual](#instalationManual)
+* [7. Technology Stack](#techStack)
+* [8. Comparison with other technologies](#comparison)
+* [9. References and documentation used](#documentation)
+
+
+### Introduction<a name="introduction">
+ This project has the goal of making a mobile app that enables the users to more easily create, modify and delete registers of the operations carried out inside the company.
+ To accomplish this, we have chosen Power Apps as our Technology Stack, as it enables us to create a robust app using minimal code.
 
 ### User requirements<a name="userReq">
  1. This project is focused on a phone app, although there is also a web version, which is what will be used to make and test the app structure. 
